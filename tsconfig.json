@@ -1,0 +1,27 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "lib": ["ES2019", "dom"],
+        "strict": true,
+        "skipLibCheck": true,
+        "module": "commonjs",
+        "allowJs": true,
+        "declaration": true,
+        "allowSyntheticDefaultImports": true,
+        "emitDeclarationOnly": false,
+        "resolveJsonModule": true,
+        "baseUrl": "./",
+        "outDir": "./lib",
+        "types": [        
+            "@shelex/cypress-allure-plugin"           
+        ],
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": [
+       
+    ],
+    "exclude": ["node_modules", "lib", "cypress"]
+}
