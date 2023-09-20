@@ -24,7 +24,7 @@ specPattern: "cypress/e2e/**/*.feature",
 });
 
 export default defineConfig({
-  stringsTestsKeptInMemory: 15,
+  FloatTestsKeptInMemory: 15,
 
 
 });
