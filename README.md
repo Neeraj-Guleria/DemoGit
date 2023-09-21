@@ -1,3 +1,3 @@
 # DemoGit
 
-This is for Demo purposes Git
+This is for Demo purposes Cypress
